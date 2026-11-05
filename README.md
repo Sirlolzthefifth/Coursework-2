@@ -45,7 +45,7 @@ These should be used to explore the trends and comparisons identified during the
 
 For example:
 
-![COVID-19 Analysis](Visualizations/Daily_Reported_COVID_Cases_(Heatmap).png)
+![COVID-19 Analysis](Visualizations/Daily Reported COVID Cases (Heatmap).png)
 
 ## Technologies and Tools
 

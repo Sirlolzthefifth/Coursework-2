@@ -39,12 +39,6 @@ The project follows a data analytics workflow:
 
 The repository includes visual outputs in the `Visualizations` directory.
 
-These should be used to explore the trends and comparisons identified during the analysis.
-
-*Add selected screenshots of your strongest charts here so visitors can see the results without having to download the repository.*
-
-For example:
-
 ![COVID-19 Analysis](Visualizations/Daily_Reported_COVID_Cases_(Heatmap).png)
 
 ## Technologies and Tools
